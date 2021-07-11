@@ -1,0 +1,28 @@
+{
+  "name": "redrngr.github.io",
+  "version": "1.0.0",
+  "description": "Test project for STM Labs",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redrngr/redrngr.github.io.git"
+  },
+  "keywords": [
+    "test",
+    "hire",
+    "me",
+    "users",
+    "list",
+    "please"
+  ],
+  "author": "Evgeny Kotyashov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redrngr/redrngr.github.io/issues"
+  },
+  "homepage": "https://github.com/redrngr/redrngr.github.io#readme"
+}
